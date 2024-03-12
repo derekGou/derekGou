@@ -12,7 +12,7 @@ Hello! My name is Derek, and I'm a high school student and aspiring developer fr
 ## My projects
 | Project | Description | Links |
 | ----------- | ----------- | ----------- |
-| WebStylus | Accessibility extension with QoL improvements in Chrome Browser, including AI-generated alt-text for the visually impaired. Submitted to RythmHacks. | [GitHub](https://github.com/mattshrew/WebStylus/tree/main)) |
-| Emoɉion | Chrome Extension that converts audio files to text, while annotating emotions. Submitted to Ignition Hacks. | [Devpost](https://devpost.com/software/emo-ion/)) |
-| Hoohle Search | Advanced search Chrome Extension. | [Chrome Web Store](https://chromewebstore.google.com/detail/hoohle-search-google-sear/jmjckdfpipjhodceglcomigogkodllbe/)) |
-| Phishy | CHrome Extension that uses an AI model to scrape, detect, and flag phishing emails. Submitted to JamHacks 7. | [Devpost](https://link-url-here.org](https://devpost.com/software/phishy/)) |
+| WebStylus | Accessibility extension with QoL improvements in Chrome Browser, including AI-generated alt-text for the visually impaired. Submitted to RythmHacks. | [GitHub](https://github.com/mattshrew/WebStylus/tree/main) |
+| Emoɉion | Chrome Extension that converts audio files to text, while annotating emotions. Submitted to Ignition Hacks. | [Devpost](https://devpost.com/software/emo-ion/) |
+| Hoohle Search | Advanced search Chrome Extension. | [Chrome Web Store](https://chromewebstore.google.com/detail/hoohle-search-google-sear/jmjckdfpipjhodceglcomigogkodllbe/) |
+| Phishy | CHrome Extension that uses an AI model to scrape, detect, and flag phishing emails. Submitted to JamHacks 7. | [Devpost](https://devpost.com/software/phishy/)) |
