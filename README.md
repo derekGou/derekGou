@@ -19,5 +19,5 @@ Hello! My name is Derek, and I'm a high school student and aspiring developer fr
 
 ## Some stats:
 [//]: <> (Thanks to anuraghazra for the stats!)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekGou)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekGou)](https://github.com/derekGou)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=derekGou)](https://github.com/derekGou)
