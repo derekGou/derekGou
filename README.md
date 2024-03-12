@@ -1,5 +1,5 @@
-# derekGou-derekGou
-Hello! My name is Derek, and I'm a high school student and aspiring developer from Canada! Welcome to my GitHub.
+# Welcome to my GitHub.
+Hello! My name is Derek, and I'm a high school student and aspiring developer from Canada! 
 ## My languages and tools
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png"></code>
