@@ -18,4 +18,4 @@ Hello! My name is Derek, and I'm a high school student and aspiring developer fr
 | Phishy | CHrome Extension that uses an AI model to scrape, detect, and flag phishing emails. Submitted to JamHacks 7. | [Devpost](https://devpost.com/software/phishy/)) |
 
 [//]: <> (Thanks to anuraghazra for the stats!)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=derekGou)](https://github.com/anuraghazra/github-readme-stats)
