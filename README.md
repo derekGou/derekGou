@@ -1,7 +1,7 @@
 # derekGou-derekGou
 Hello! My name is Derek, and I'm a high school student and aspiring developer from Canada! Welcome to my GitHub.
 ## My languages and tools
-<code><img height="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"></code>
 
 ## My projects
 | Tool | Description |
