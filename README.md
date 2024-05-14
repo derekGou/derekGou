@@ -7,6 +7,8 @@ Hello! My name is Derek, and I'm a high school student and aspiring developer fr
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1024px-Processing_2021_logo.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"></code>
+<code><img height="40" src="https://pbs.twimg.com/profile_images/690207449471582208/LJ_Gsz28_400x400.png"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg"></code>
 
 ## My projects
 | Project | Description | Links |
