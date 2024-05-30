@@ -2,7 +2,7 @@
 Hello! My name is Derek, and I'm a high school student and aspiring developer from Canada! 
 
 ## My awards and achievements
-- 3 hackathons attended
+- 1 win/4 hackathons attended
 - Best beginner hack and 4th overall @ JamHacks7
 - 2nd place overall - St. Lawrence College Coding Competition
 - Distinction - Senior Canadian Computing Contest (2024)
