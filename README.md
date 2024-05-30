@@ -18,7 +18,7 @@ Hello! My name is Derek, and I'm a high school student and aspiring developer fr
 <code><img height="40" src="https://pbs.twimg.com/profile_images/690207449471582208/LJ_Gsz28_400x400.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg"></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s"></code>
-
+<code><img height="40" src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4"></code>
 
 ## My projects
 | Project | Description | Links |
