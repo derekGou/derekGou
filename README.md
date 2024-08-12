@@ -21,6 +21,8 @@ Hello! My name is Derek, and I'm a high school student and aspiring developer fr
 <code><img height="40" src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code><img height="40" src="https://www.gstatic.com/devrel-devsite/prod/vd185cef2092d5507cf5d5de6d49d6afd8eb38fe69b728d88979eb4a70550ff03/firebase/images/touchicon-180.png"></code>
+<code><img height="40" src="https://mui.com/static/logo.png"></code>
+<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s"></code>
 
 ## My projects
 | Project | Description | Links |
