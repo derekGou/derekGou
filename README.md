@@ -27,6 +27,7 @@ Hello! My name is Derek, and I'm a high school student and aspiring developer fr
 ## My projects
 | Project | Description | Links |
 | ----------- | ----------- | ----------- |
+| Carta | An AI study buddy that works for any and all subjects. | [GitHub](https://github.com/derekGou/cartaApp) |
 | Alonzo | A custom AI chatbot built using NextJS, Gemini, and Firebase, complete with a custom built-from-scratch authentication system. | [GitHub](https://github.com/derekGou/alonzo) |
 | CILC Website | Rebuilding website from scratch using Vite, ReactJS and Tailwind. | [GitHub](https://github.com/derekGou/cilcWebsite) |
 | TouchUp | Device add-on that allows users to control devices remotely with hand gestures, or use any device as a touch screen. 1st Overall @ JamHacks 8. | [GitHub](https://github.com/mattshrew/TouchUp) |
