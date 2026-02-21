@@ -1,13 +1,10 @@
 # Welcome to my GitHub
-Hello! My name is Derek, and I'm a high school student and aspiring developer from Canada! 
+Hello! My name is Derek, and I study Software Engineering at the University of Waterloo.
 
-## My awards and achievements
-- 3 wins/7 hackathons attended
-- 1st overall @ JamHacks8
-- Best beginner hack and 4th overall @ JamHacks7
+## Some Info About Me
+- prev @ Children's International Learning Centre
+- Currently building the Radiant Web Browser
+- 5 wins/10 hackathons attended
+- 3rd overall @ JamHacks9, 1st overall @ JamHacks8, best beginner hack and 4th overall @ JamHacks7
 - 2nd place overall - St. Lawrence College Coding Competition
-- Distinction - Senior Canadian Computing Contest (2024)
-
-## Some stats:
-[//]: <> (Thanks to anuraghazra for the stats!)
-[![Stats](https://github-readme-stats.vercel.app/api?username=derekGou&layout=compact)](https://github.com/derekGou)
+- Distinction - Senior Canadian Computing Contest (2024, 2025)
